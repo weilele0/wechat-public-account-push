@@ -33,7 +33,7 @@ const USER_CONFIG = {
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: ,
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
@@ -69,9 +69,9 @@ const USER_CONFIG = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: 'amyDtlPAbdE5pxyfsreQFDaZaH3yxxyq7y6ybUHN0S4',
       // 所在省份
-      province: '广东',
+      province: '河南',
       // 所在城市
-      city: '肇庆',
+      city: '新密',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -226,7 +226,7 @@ const USER_CONFIG = {
       // 一般都填自己
       name: '自己',
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'o9I3a56jIQwTaNyjrHLWsf6yifII',
     }
     // 你可以不断按格式往下增加
     // ...
